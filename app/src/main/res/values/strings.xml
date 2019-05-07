@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="hint_title">Title here…</string>
+    <string name="hint_description">Description here…</string>
+    <string name="save_title">Save</string>
+    <string name="edit_title">Edit</string>
+    <string name="list_title">@string/app_name</string>
+    <string name="editor_title">Edit note</string>
+    <string name="constructor_title">New note</string>
+    <string name="empty_view_text">Nothing to show…</string>
+</resources>
